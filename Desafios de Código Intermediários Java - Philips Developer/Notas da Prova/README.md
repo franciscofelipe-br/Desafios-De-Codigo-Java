@@ -5,7 +5,7 @@ Os estudantes adoraram a metodologia de ensino de Norminia e tudo estava indo su
 Conversando com outros docentes, ela recebeu a sugestão de utilizar a seguinte tabela, relacionando as notas numéricas com as notas de conceitos:
 
 <p align="center">
-	<img src="../../../../assets/notasprovas.png" width="270" height="270">
+	<img src="/assets/notasprovas.png" width="270" height="270">
 </p>
 
 O problema é que Norminia já deu as notas no sistema numérico, e terá que converter as notas para o sistema de letras. No entanto, Norminia precisa preparar as próximas atividades educacionais para os seus alunos, e não tem tempo suficiente para fazer a conversão das notas manualmente.
